@@ -1,0 +1,23 @@
+.player {
+  padding: 20px;
+  background-color: #ffc107;
+  margin-bottom: 15px;
+  font-family: "Lobster", cursive;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 20px;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: red;
+}
