@@ -7,7 +7,7 @@ export default function Header() {
         <div className="container-fluid">
           <a className="navbar-brand text d-flex align-items-center" href="#">
             <img
-              src="https://lh3.googleusercontent.com/proxy/A9tuSCSKMW-SwWAAyMJFLshGXhvPZjgWLqeDhVjEdF-nAGLo7Wkcs7_qqYAA65pIeusS38IS5G8Lm9IhxFhqLrXO608PJSqlsq79v3FrYJdnEQ4uRQuNsXpFzZA7IuEvZQnr5OQIz_kD"
+              src="https://lh3.googleusercontent.com/proxy/SXvBwXt0OsBltGRFhmKssN4q9dO-0DVQbVeGDJjRjmlqn2g8RPanfEt7U4ffg164_JlOuEjVpLzzebzn336IgWcVjMrO5LUg76lLRzqT9x-dXM9-9s4L3r1As-m0CDyr76o4_VmGtUJx"
               alt=""
               width="100px"
             />{" "}

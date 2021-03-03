@@ -12,6 +12,7 @@ export default function Main() {
   useEffect(() => {
     setPlayers(playersData);
   }, []);
+  const [foreignPlayer, setforeignPlayer] = useState(0);
 
   const selectPlayer = (data) => {
     if (SelectedPlayer.length === 11) {
@@ -20,16 +21,30 @@ export default function Main() {
       if (SelectedPlayer.indexOf(data) === -1) {
         setSelectedPlayer([...SelectedPlayer, data]);
       } else {
-        alert(data.name + " " + "is already added.");
+        let msg = data.name + " is already selected.";
+        alert(msg);
       }
     }
   };
 
+  const deselectPlayer = (data) => {
+    const newArr = SelectedPlayer.filter((player) => {
+      return player !== data;
+    });
+    if (data.nationality !== "Indian") {
+      setforeignPlayer(foreignPlayer - 1);
+      //console.log(foreignPlayer);
+    }
+    setSelectedPlayer(newArr);
+  };
   return (
     <div className="main py-5">
       <div className="container-fluid d-flex">
         <PlayerInfo players={Players} selectPlayer={selectPlayer}></PlayerInfo>
-        <PlayerSelection selectedPlayer={SelectedPlayer}></PlayerSelection>
+        <PlayerSelection
+          selectedPlayer={SelectedPlayer}
+          deselectPlayer={deselectPlayer}
+        ></PlayerSelection>
       </div>
     </div>
   );
