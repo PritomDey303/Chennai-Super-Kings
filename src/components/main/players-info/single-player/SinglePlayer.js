@@ -21,7 +21,7 @@ export default function SInglePlayer(props) {
   return (
     <div className="col-md-4 mb-5">
       <div className="card bg-warning shadow" style={{ width: "18rem" }}>
-        <img className="card-img-top" src={image} alt="Card image cap" />
+        <img className="card-img-top" src={image} alt="Card cap" />
         <div className="card-body">
           <h3 className="card-title text-center">{name}</h3>
         </div>
