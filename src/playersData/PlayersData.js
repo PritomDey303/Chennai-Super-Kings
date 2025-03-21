@@ -6,7 +6,7 @@ const PlayersData = [
     bowling: "Medium Seam",
     nationality: "Indian",
     salary: 150000,
-    image: "https://static.iplt20.com/players/284/1.png",
+    image: "https://documents.iplt20.com/ipl/IPLHeadshot2024/57.png",
   },
   {
     name: "Suresh Raina",
@@ -15,7 +15,7 @@ const PlayersData = [
     bowling: "Off spin",
     nationality: "Indian",
     salary: 120000,
-    image: "https://static.iplt20.com/players/210/14.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/14.png",
   },
   {
     name: "Ravindra Jadeja",
@@ -24,7 +24,7 @@ const PlayersData = [
     bowling: "Leg spin",
     nationality: "Indian",
     salary: 110000,
-    image: "https://static.iplt20.com/players/210/9.png",
+    image: "https://documents.iplt20.com/ipl/IPLHeadshot2024/46.png",
   },
   {
     name: "Imran Tahir",
@@ -33,7 +33,7 @@ const PlayersData = [
     bowling: "Wrist spin",
     nationality: "South African",
     salary: 80000,
-    image: "https://static.iplt20.com/players/210/898.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/898.png",
   },
   {
     name: "Faf du plessis",
@@ -42,7 +42,7 @@ const PlayersData = [
     bowling: "Leg spin",
     nationality: "South African",
     salary: 50000,
-    image: "https://static.iplt20.com/players/284/24.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/24.png",
   },
   {
     name: "Sam Curran",
@@ -51,7 +51,7 @@ const PlayersData = [
     bowling: "Medium Seam",
     nationality: "English",
     salary: 70000,
-    image: "https://static.iplt20.com/players/284/2939.png",
+    image: "https://i.ibb.co.com/KxHyHNdn/HD-wallpaper-sam-curran-chutty-kuzhathai-csk-sam-curran-whistle-podu-yellow-thumbnail-removebg-previ.png",
   },
   {
     name: "Dwane Bravo",
@@ -60,7 +60,7 @@ const PlayersData = [
     bowling: "Medium Seam",
     nationality: "West Indian",
     salary: 100000,
-    image: "https://static.iplt20.com/players/284/25.png",
+    image: "https://assets.iplt20.com/ipl/IPLHeadshot2022/25.png",
   },
   {
     name: "Deepak Chahar",
@@ -69,7 +69,7 @@ const PlayersData = [
     bowling: "Medium Seam",
     nationality: "Indian",
     salary: 85000,
-    image: "https://static.iplt20.com/players/284/140.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/140.png",
   },
   {
     name: "Mitchell Santner",
@@ -78,7 +78,7 @@ const PlayersData = [
     bowling: "Orthodox",
     nationality: "New Zealander",
     salary: 65000,
-    image: "https://static.iplt20.com/players/284/1903.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/1903.png",
   },
   {
     name: "Ruturaj Gaikwad",
@@ -87,7 +87,7 @@ const PlayersData = [
     bowling: "Off spin",
     nationality: "Indian",
     salary: 44000,
-    image: "https://static.iplt20.com/players/284/5443.png",
+    image: "https://documents.iplt20.com/ipl/IPLHeadshot2025/102.png",
   },
   {
     name: "Josh Hazlewood",
@@ -96,7 +96,7 @@ const PlayersData = [
     bowling: "Fast Seam",
     nationality: "Australian",
     salary: 37000,
-    image: "https://static.iplt20.com/players/284/857.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/857.png",
   },
   {
     name: "Shardul Thakur",
@@ -105,7 +105,7 @@ const PlayersData = [
     bowling: "Medium Seam",
     nationality: "Indian",
     salary: 40000,
-    image: "https://static.iplt20.com/players/284/1745.png",
+    image: "https://documents.iplt20.com/ipl/IPLHeadshot2024/105.png",
   },
   {
     name: "Ambati Rayadu",
@@ -114,16 +114,16 @@ const PlayersData = [
     bowling: "Off spin",
     nationality: "Indian",
     salary: 55000,
-    image: "https://static.iplt20.com/players/284/100.png",
+    image: "https://documents.iplt20.com/ipl/IPLHeadshot2023/60.png",
   },
   {
-    name: "N Jagadeesan",
+    name: "Narayan Jagadeesan",
     position: "Wk Batsman",
     batting: "Right Handed",
     bowling: "N/A",
     nationality: "Indian",
     salary: 20000,
-    image: "https://static.iplt20.com/players/284/4942.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/4942.png",
   },
   {
     name: "Lungi Ngidi",
@@ -132,7 +132,7 @@ const PlayersData = [
     bowling: "Fast spin",
     nationality: "South African",
     salary: 25000,
-    image: "https://static.iplt20.com/players/284/3746.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/3746.png",
   },
   {
     name: "Karn Sharma",
@@ -141,7 +141,7 @@ const PlayersData = [
     bowling: "Leg Spin",
     nationality: "Indian",
     salary: 23500,
-    image: "https://static.iplt20.com/players/284/1118.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/1118.png",
   },
   {
     name: "KM Asif",
@@ -150,7 +150,7 @@ const PlayersData = [
     bowling: "Medium Seam",
     nationality: "Indian",
     salary: 25000,
-    image: "https://static.iplt20.com/players/284/4944.png",
+    image: "https://documents.iplt20.com/playerheadshot/ipl/210/4944.png",
   },
 ];
 
